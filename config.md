@@ -8,7 +8,7 @@ git config
 git config --global user.name
 ```
 
-Команда **git config --global user. email *user@mail.ru.*** Указывает ***email*** пользователя.
+Команда **git config --global user. email *user@mail.ru.*** Указывает *email* пользователя.
 
 ```bash=
 git config --global user.email
